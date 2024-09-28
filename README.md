@@ -76,7 +76,7 @@ No payload is required. Simply send a GET request to `/api/people`.
         "id": 1,
         "firstname": "John",
         "lastname": "Doe",
-        "phone": "123-456-7890"
+        "phone": "04xxxxxxxxx"
     },
     {
         "id": 2,
